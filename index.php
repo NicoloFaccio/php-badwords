@@ -14,7 +14,7 @@ $string = 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem 
 </head>
 <body>
     <form action="saluto.php" method="post">
-        <input type="text" placeholder='sscrivere una parola' name="words">
+        <input type="text" placeholder='scrivere una parola' name="words">
         <textarea name="paragraph" id="" cols="30" rows="10"></textarea>
         <button type="submit">Invia</button>
     </form>
